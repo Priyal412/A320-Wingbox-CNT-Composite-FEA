@@ -1,6 +1,6 @@
 # CNT-Functionalized CFRP for Aircraft Airframe Structures
 ### Master's Thesis — Moscow Aviation Institute (MAI), 2024
-**Author:** Priyal Chaturvedi | **Program:** M.Sc. Aerospace Engineering (Aircraft Design) | **Department:** Institute No.1 "Aviation Technology", Chair 101
+**Author:** Priyal Chaturvedi | **Program:** M.Sc. Aerospace Engineering (Aircraft Design) | **Department:** Institute No.1 "Aviation Technology", Faculty 101
 
 ---
 
